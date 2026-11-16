@@ -1,0 +1,199 @@
+Patient_VR_Final | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Arms | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Arms/Arm_L | pos (-0.2450, 1.0100, -0.3300) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Arms/Arm_R | pos (0.2450, 1.0100, -0.3300) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Body | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavities/Cavity_01_Heart | pos (-0.1060, 1.1758, -0.2680) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_02_Chest | pos (0.1060, 1.1778, -0.2700) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_03_UpperAbdomen | pos (0.0000, 1.2120, -0.1180) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_04_LowerAbdomen | pos (0.0000, 1.2149, 0.0360) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_05_ArmLeft | pos (-0.4391, 1.0235, 0.0081) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_06_ArmRight | pos (0.3100, 1.0584, -0.2159) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_07_ThighLeft | pos (-0.1617, 1.0906, 0.4350) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavities/Cavity_08_ThighRight | pos (0.1617, 1.0882, 0.4350) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Cavity_Anchors | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_01_Heart | pos (-0.1060, 1.1758, -0.2680) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_01_Heart/Slot_Cavity_01_Heart | pos (-0.1060, 1.1054, -0.2725) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_02_Chest | pos (0.1060, 1.1778, -0.2700) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_02_Chest/Slot_Cavity_02_Chest | pos (0.1060, 1.1061, -0.2700) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_03_UpperAbdomen | pos (0.0000, 1.2120, -0.1180) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_03_UpperAbdomen/Slot_Cavity_03_UpperAbdomen | pos (0.0035, 1.1245, -0.1180) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_04_LowerAbdomen | pos (0.0000, 1.2149, 0.0360) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_04_LowerAbdomen/Slot_Cavity_04_LowerAbdomen | pos (0.0315, 1.1330, 0.0420) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_05_ArmLeft | pos (-0.4391, 1.0235, 0.0081) | rot (270.0, 63.4, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_05_ArmLeft/Slot_Cavity_05_ArmLeft | pos (-0.4507, 0.9710, 0.0314) | rot (270.0, 63.4, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_06_ArmRight | pos (0.3100, 1.0584, -0.2159) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_06_ArmRight/Slot_Cavity_06_ArmRight | pos (0.3100, 1.0093, -0.2159) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_07_ThighLeft | pos (-0.1617, 1.0906, 0.4350) | rot (270.0, 82.6, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_07_ThighLeft/Slot_Cavity_07_ThighLeft | pos (-0.1615, 1.0295, 0.4330) | rot (270.0, 82.6, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_08_ThighRight | pos (0.1617, 1.0882, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Cavity_Anchors/Anchor_Cavity_08_ThighRight/Slot_Cavity_08_ThighRight | pos (0.1617, 1.0312, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Clothing | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Clothing/Shorts | pos (0.0000, 0.9000, 0.2200) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart | pos (-0.1060, 1.1758, -0.2680) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_Floor | pos (-0.1060, 1.1054, -0.2725) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_Rim | pos (-0.1060, 1.1758, -0.2680) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex | pos (-0.1060, 1.1758, -0.2680) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_00 | pos (-0.1609, 1.1352, -0.2966) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_01 | pos (-0.1517, 1.1348, -0.3141) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_02 | pos (-0.1341, 1.1358, -0.3233) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_03 | pos (-0.1155, 1.1379, -0.3228) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_04 | pos (-0.1000, 1.1390, -0.3224) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_05 | pos (-0.0823, 1.1395, -0.3239) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_06 | pos (-0.0634, 1.1407, -0.3168) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_07 | pos (-0.0522, 1.1424, -0.3001) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_08 | pos (-0.0505, 1.1437, -0.2805) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_09 | pos (-0.0557, 1.1443, -0.2624) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_10 | pos (-0.0656, 1.1445, -0.2466) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_11 | pos (-0.0784, 1.1443, -0.2334) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_12 | pos (-0.0944, 1.1433, -0.2227) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_13 | pos (-0.1136, 1.1418, -0.2216) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_14 | pos (-0.1309, 1.1402, -0.2311) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_15 | pos (-0.1441, 1.1389, -0.2438) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_16 | pos (-0.1547, 1.1376, -0.2591) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_01_Heart/COL_Cavity_01_Heart_RimConvex/COL_Cavity_01_Heart_RimSeg_17 | pos (-0.1609, 1.1363, -0.2770) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest | pos (0.1060, 1.1778, -0.2700) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_Floor | pos (0.1060, 1.1061, -0.2700) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_Rim | pos (0.1060, 1.1778, -0.2700) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex | pos (0.1060, 1.1778, -0.2700) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_00 | pos (0.0617, 1.1440, -0.2822) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_01 | pos (0.0738, 1.1425, -0.3027) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_02 | pos (0.0945, 1.1407, -0.3144) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_03 | pos (0.1182, 1.1392, -0.3142) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_04 | pos (0.1387, 1.1384, -0.3022) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_05 | pos (0.1504, 1.1382, -0.2815) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_06 | pos (0.1502, 1.1386, -0.2578) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_07 | pos (0.1382, 1.1398, -0.2373) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_08 | pos (0.1175, 1.1418, -0.2256) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_09 | pos (0.0938, 1.1437, -0.2258) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_10 | pos (0.0733, 1.1447, -0.2378) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_02_Chest/COL_Cavity_02_Chest_RimConvex/COL_Cavity_02_Chest_RimSeg_11 | pos (0.0616, 1.1447, -0.2585) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen | pos (0.0000, 1.2120, -0.1180) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_Floor | pos (0.0035, 1.1245, -0.1180) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_Rim | pos (0.0000, 1.2120, -0.1180) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex | pos (0.0000, 1.2120, -0.1180) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_00 | pos (-0.0623, 1.1645, -0.1326) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_01 | pos (-0.0415, 1.1620, -0.1536) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_02 | pos (-0.0140, 1.1616, -0.1621) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_03 | pos (0.0145, 1.1616, -0.1620) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_04 | pos (0.0419, 1.1620, -0.1534) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_05 | pos (0.0625, 1.1645, -0.1322) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_06 | pos (0.0623, 1.1693, -0.1034) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_07 | pos (0.0415, 1.1734, -0.0824) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_08 | pos (0.0140, 1.1751, -0.0739) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_09 | pos (-0.0145, 1.1751, -0.0740) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_10 | pos (-0.0419, 1.1733, -0.0826) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_03_UpperAbdomen/COL_Cavity_03_UpperAbdomen_RimConvex/COL_Cavity_03_UpperAbdomen_RimSeg_11 | pos (-0.0625, 1.1693, -0.1038) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen | pos (0.0000, 1.2149, 0.0360) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_Floor | pos (0.0315, 1.1330, 0.0420) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_Rim | pos (0.0000, 1.2149, 0.0360) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex | pos (0.0000, 1.2149, 0.0360) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_00 | pos (-0.0729, 1.1749, 0.0251) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_01 | pos (-0.0588, 1.1777, 0.0065) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_02 | pos (-0.0364, 1.1795, -0.0004) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_03 | pos (-0.0150, 1.1799, 0.0047) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_04 | pos (0.0010, 1.1798, 0.0091) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_05 | pos (0.0179, 1.1799, 0.0038) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_06 | pos (0.0400, 1.1793, -0.0002) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_07 | pos (0.0616, 1.1774, 0.0085) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_08 | pos (0.0740, 1.1745, 0.0281) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_09 | pos (0.0729, 1.1713, 0.0515) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_10 | pos (0.0599, 1.1690, 0.0704) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_11 | pos (0.0409, 1.1677, 0.0822) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_12 | pos (0.0199, 1.1670, 0.0888) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_13 | pos (-0.0017, 1.1668, 0.0908) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_14 | pos (-0.0232, 1.1671, 0.0881) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_15 | pos (-0.0438, 1.1679, 0.0808) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_16 | pos (-0.0622, 1.1693, 0.0682) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_04_LowerAbdomen/COL_Cavity_04_LowerAbdomen_RimConvex/COL_Cavity_04_LowerAbdomen_RimSeg_17 | pos (-0.0739, 1.1717, 0.0486) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft | pos (-0.4391, 1.0235, 0.0081) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_Floor | pos (-0.4507, 0.9710, 0.0314) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_Rim | pos (-0.4391, 1.0235, 0.0081) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex | pos (-0.4391, 1.0235, 0.0081) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_00 | pos (-0.4698, 0.9896, 0.0456) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_01 | pos (-0.4739, 0.9908, 0.0248) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_02 | pos (-0.4665, 0.9946, 0.0052) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_03 | pos (-0.4579, 0.9987, -0.0121) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_04 | pos (-0.4466, 1.0020, -0.0297) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_05 | pos (-0.4276, 1.0046, -0.0390) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_06 | pos (-0.4083, 1.0046, -0.0294) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_07 | pos (-0.4041, 1.0020, -0.0085) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_08 | pos (-0.4113, 0.9987, 0.0111) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_09 | pos (-0.4200, 0.9946, 0.0284) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_10 | pos (-0.4314, 0.9907, 0.0460) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_05_ArmLeft/COL_Cavity_05_ArmLeft_RimConvex/COL_Cavity_05_ArmLeft_RimSeg_11 | pos (-0.4505, 0.9896, 0.0552) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight | pos (0.3100, 1.0584, -0.2159) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_Floor | pos (0.3100, 1.0093, -0.2159) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_Rim | pos (0.3100, 1.0584, -0.2159) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex | pos (0.3100, 1.0584, -0.2159) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_00 | pos (0.2760, 1.0358, -0.2253) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_01 | pos (0.2853, 1.0381, -0.2411) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_02 | pos (0.3012, 1.0377, -0.2500) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_03 | pos (0.3194, 1.0349, -0.2499) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_04 | pos (0.3352, 1.0318, -0.2406) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_05 | pos (0.3442, 1.0305, -0.2247) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_06 | pos (0.3440, 1.0314, -0.2065) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_07 | pos (0.3347, 1.0325, -0.1908) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_08 | pos (0.3188, 1.0323, -0.1818) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_09 | pos (0.3006, 1.0311, -0.1820) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_10 | pos (0.2849, 1.0306, -0.1912) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_06_ArmRight/COL_Cavity_06_ArmRight_RimConvex/COL_Cavity_06_ArmRight_RimSeg_11 | pos (0.2759, 1.0324, -0.2071) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft | pos (-0.1617, 1.0906, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_Floor | pos (-0.1615, 1.0295, 0.4330) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_Rim | pos (-0.1617, 1.0906, 0.4350) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex | pos (-0.1617, 1.0906, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_00 | pos (-0.1799, 1.0599, 0.4818) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_01 | pos (-0.1952, 1.0574, 0.4636) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_02 | pos (-0.1997, 1.0567, 0.4412) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_03 | pos (-0.1967, 1.0582, 0.4188) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_04 | pos (-0.1865, 1.0609, 0.3983) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_05 | pos (-0.1669, 1.0635, 0.3849) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_06 | pos (-0.1436, 1.0635, 0.3881) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_07 | pos (-0.1283, 1.0609, 0.4063) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_08 | pos (-0.1238, 1.0582, 0.4287) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_09 | pos (-0.1268, 1.0566, 0.4511) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_10 | pos (-0.1370, 1.0574, 0.4716) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_07_ThighLeft/COL_Cavity_07_ThighLeft_RimConvex/COL_Cavity_07_ThighLeft_RimSeg_11 | pos (-0.1566, 1.0599, 0.4850) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight | pos (0.1617, 1.0882, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_Floor | pos (0.1617, 1.0312, 0.4350) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_Rim | pos (0.1617, 1.0882, 0.4350) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex | pos (0.1617, 1.0882, 0.4350) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_00 | pos (0.1181, 1.0586, 0.4158) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_01 | pos (0.1314, 1.0618, 0.4052) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_02 | pos (0.1418, 1.0634, 0.3980) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_03 | pos (0.1555, 1.0642, 0.3882) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_04 | pos (0.1726, 1.0634, 0.3903) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_05 | pos (0.1843, 1.0616, 0.4009) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_06 | pos (0.1966, 1.0591, 0.4074) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_07 | pos (0.2076, 1.0561, 0.4207) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_08 | pos (0.2056, 1.0558, 0.4378) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_09 | pos (0.1998, 1.0568, 0.4501) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_10 | pos (0.1960, 1.0578, 0.4659) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_11 | pos (0.1825, 1.0596, 0.4767) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_12 | pos (0.1660, 1.0603, 0.4763) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_13 | pos (0.1529, 1.0597, 0.4773) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_14 | pos (0.1360, 1.0573, 0.4750) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_15 | pos (0.1255, 1.0560, 0.4611) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_16 | pos (0.1228, 1.0567, 0.4468) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Collision_Proxies/COL_Cavity_08_ThighRight/COL_Cavity_08_ThighRight_RimConvex/COL_Cavity_08_ThighRight_RimSeg_17 | pos (0.1161, 1.0566, 0.4329) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Feet | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Feet/Foot_L | pos (-0.1959, 0.9676, 0.7386) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Feet/Foot_R | pos (0.1959, 0.9676, 0.7386) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Hands | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Hands/Hand_L | pos (-0.4964, 0.9440, 0.1229) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Hands/Hand_R | pos (0.4964, 0.9440, 0.1229) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head | pos (0.0000, 1.0275, -0.4675) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Eye_L | pos (-0.0938, 1.2589, -0.7520) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Eye_R | pos (0.0938, 1.2589, -0.7520) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Eyebrows | pos (0.0002, 1.2787, -0.8548) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Hair | pos (0.0001, 1.0634, -0.8085) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Hair_Curl | pos (-0.0125, 1.1388, -0.9298) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Moustache | pos (-0.0001, 1.2973, -0.5958) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/SweatDrop | pos (0.1352, 1.3044, -0.8173) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Teeth | pos (-0.0006, 1.2801, -0.5340) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Head/Tongue | pos (-0.0001, 1.2551, -0.5133) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Legs | pos (0.0000, 0.9000, 0.0000) | rot (270.0, 0.0, 0.0) | 
+Patient_VR_Final/Legs/Leg_L | pos (-0.1490, 1.0000, 0.3360) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 
+Patient_VR_Final/Legs/Leg_R | pos (0.1490, 1.0000, 0.3360) | rot (270.0, 0.0, 0.0) | MeshFilter MeshRenderer 

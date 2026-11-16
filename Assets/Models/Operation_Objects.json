@@ -1,0 +1,643 @@
+{
+ "units": "metres",
+ "frames": {
+  "blender": "Gerard frame as modelled: X = patient left, Y = toward head, Z = up, origin = Patient_Root",
+  "unity": "FBX import (Forward -Z, Up Y, Apply Transform): Unity (x,y,z) = (-Xb, Zb, -Yb). Positions are local to Patient_Root. Not verified inside Unity."
+ },
+ "pieces": [
+  {
+   "name": "Piece_01_BrokenHeart",
+   "label": "Broken heart",
+   "cavity": "Cavity_01_Heart",
+   "cavity_shape": "heart",
+   "size_cm": {
+    "length": 7.84,
+    "width": 7.21,
+    "height": 2.44
+   },
+   "triangles": 1480,
+   "materials": [
+    "M_Piece_01_BrokenHeart_Red",
+    "M_Piece_01_BrokenHeart_Plaster"
+   ],
+   "home_position_blender_xyz": [
+    0.10601,
+    0.27141,
+    0.21808
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    -0.10601,
+    0.21808,
+    -0.27141
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -1e-05,
+    0.01268,
+    0.00109
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0784,
+     0.0244,
+     0.0721
+    ],
+    "name": "COL_Piece_01",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_01",
+    "local_position_unity_xyz": [
+     1e-05,
+     1e-05,
+     0.03341
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 10.4,
+    "clearance_along_x_mm": [
+     10.5,
+     10.5
+    ],
+    "clearance_along_y_mm": [
+     10.6,
+     10.6
+    ],
+    "piece_height_cm": 2.44,
+    "cavity_depth_min_cm": 5.5,
+    "top_below_skin_cm": 3.0
+   }
+  },
+  {
+   "name": "Piece_02_Apple",
+   "label": "Apple",
+   "cavity": "Cavity_02_Chest",
+   "cavity_shape": "circle",
+   "size_cm": {
+    "length": 5.35,
+    "width": 5.35,
+    "height": 5.95
+   },
+   "triangles": 1370,
+   "materials": [
+    "M_Piece_02_Apple_Red",
+    "M_Piece_02_Apple_Leaf"
+   ],
+   "home_position_blender_xyz": [
+    -0.10601,
+    0.26998,
+    0.23639
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    0.10601,
+    0.23639,
+    -0.26998
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    1e-05,
+    0.03024,
+    2e-05
+   ],
+   "collision_proxy": {
+    "type": "sphere",
+    "radius": 0.0268,
+    "name": "COL_Piece_02",
+    "center_local_unity": [
+     -0.0,
+     -0.00298,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_02",
+    "local_position_unity_xyz": [
+     -0.00261,
+     0.02601,
+     -2e-05
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 13.1,
+    "clearance_along_x_mm": [
+     13.2,
+     13.3
+    ],
+    "clearance_along_y_mm": [
+     13.2,
+     13.3
+    ],
+    "piece_height_cm": 5.95,
+    "cavity_depth_min_cm": 6.0,
+    "top_below_skin_cm": 0.0
+   }
+  },
+  {
+   "name": "Piece_03_Fish",
+   "label": "Goldfish",
+   "cavity": "Cavity_03_UpperAbdomen",
+   "cavity_shape": "oval",
+   "size_cm": {
+    "length": 7.74,
+    "width": 5.07,
+    "height": 2.19
+   },
+   "triangles": 1308,
+   "materials": [
+    "M_Piece_03_Fish_Orange",
+    "M_Piece_03_Fish_Eye"
+   ],
+   "home_position_blender_xyz": [
+    0.00272,
+    0.11935,
+    0.23597
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    -0.00272,
+    0.23597,
+    -0.11935
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -0.00622,
+    0.01146,
+    -0.00135
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0774,
+     0.0219,
+     0.0507
+    ],
+    "name": "COL_Piece_03",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_03",
+    "local_position_unity_xyz": [
+     -0.03328,
+     2e-05,
+     0.00135
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 9.7,
+    "clearance_along_x_mm": [
+     26.0,
+     20.5
+    ],
+    "clearance_along_y_mm": [
+     13.9,
+     11.3
+    ],
+    "piece_height_cm": 2.19,
+    "cavity_depth_min_cm": 7.0,
+    "top_below_skin_cm": 4.8
+   }
+  },
+  {
+   "name": "Piece_04_Croissant",
+   "label": "Croissant",
+   "cavity": "Cavity_04_LowerAbdomen",
+   "cavity_shape": "bean",
+   "size_cm": {
+    "length": 7.97,
+    "width": 4.08,
+    "height": 3.67
+   },
+   "triangles": 1400,
+   "materials": [
+    "M_Piece_04_Croissant_Golden"
+   ],
+   "home_position_blender_xyz": [
+    -3e-05,
+    -0.05373,
+    0.25189
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    3e-05,
+    0.25189,
+    0.05373
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -0.03147,
+    0.01884,
+    0.01173
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0797,
+     0.0367,
+     0.0408
+    ],
+    "name": "COL_Piece_04",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_04",
+    "local_position_unity_xyz": [
+     -0.03303,
+     1e-05,
+     -0.00888
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 9.5,
+    "clearance_along_x_mm": [
+     29.6,
+     29.6
+    ],
+    "clearance_along_y_mm": [
+     9.5,
+     27.5
+    ],
+    "piece_height_cm": 3.67,
+    "cavity_depth_min_cm": 6.5,
+    "top_below_skin_cm": 2.8
+   }
+  },
+  {
+   "name": "Piece_05_FunnyBone",
+   "label": "Funny bone",
+   "cavity": "Cavity_05_ArmLeft",
+   "cavity_shape": "slot",
+   "size_cm": {
+    "length": 6.89,
+    "width": 2.28,
+    "height": 1.49
+   },
+   "triangles": 1100,
+   "materials": [
+    "M_Piece_05_FunnyBone_Bone"
+   ],
+   "home_position_blender_xyz": [
+    0.43904,
+    -0.0081,
+    0.07896
+   ],
+   "home_yaw_deg_blender_z": -63.43,
+   "home_position_unity_xyz": [
+    -0.43904,
+    0.07896,
+    0.0081
+   ],
+   "home_yaw_deg_unity_y": -63.43,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    0.01164,
+    0.00795,
+    -0.02326
+   ],
+   "collision_proxy": {
+    "type": "capsule",
+    "radius": 0.0114,
+    "height": 0.0689,
+    "unity_direction": "X-Axis",
+    "name": "COL_Piece_05",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_05",
+    "local_position_unity_xyz": [
+     -0.0,
+     0.0,
+     -1e-05
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 8.5,
+    "clearance_along_x_mm": [
+     12.5,
+     12.5
+    ],
+    "clearance_along_y_mm": [
+     8.8,
+     8.6
+    ],
+    "piece_height_cm": 1.49,
+    "cavity_depth_min_cm": 3.4,
+    "top_below_skin_cm": 1.9
+   }
+  },
+  {
+   "name": "Piece_06_Donut",
+   "label": "Donut",
+   "cavity": "Cavity_06_ArmRight",
+   "cavity_shape": "round",
+   "size_cm": {
+    "length": 4.27,
+    "width": 4.25,
+    "height": 1.76
+   },
+   "triangles": 1400,
+   "materials": [
+    "M_Piece_06_Donut_Dough",
+    "M_Piece_06_Donut_Icing"
+   ],
+   "home_position_blender_xyz": [
+    -0.30996,
+    0.2162,
+    0.11862
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    0.30996,
+    0.11862,
+    -0.2162
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -6e-05,
+    0.0093,
+    -0.00028
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0427,
+     0.0176,
+     0.0425
+    ],
+    "name": "COL_Piece_06",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_06",
+    "local_position_unity_xyz": [
+     -0.01244,
+     -0.0003,
+     0.00028
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 8.4,
+    "clearance_along_x_mm": [
+     8.7,
+     8.6
+    ],
+    "clearance_along_y_mm": [
+     9.0,
+     8.5
+    ],
+    "piece_height_cm": 1.76,
+    "cavity_depth_min_cm": 4.0,
+    "top_below_skin_cm": 2.2
+   }
+  },
+  {
+   "name": "Piece_07_Wrench",
+   "label": "Wrench",
+   "cavity": "Cavity_07_ThighLeft",
+   "cavity_shape": "oval2",
+   "size_cm": {
+    "length": 7.14,
+    "width": 2.88,
+    "height": 0.87
+   },
+   "triangles": 1340,
+   "materials": [
+    "M_Piece_07_Wrench_Steel",
+    "M_Piece_07_Wrench_Grip"
+   ],
+   "home_position_blender_xyz": [
+    0.16162,
+    -0.43406,
+    0.13439
+   ],
+   "home_yaw_deg_blender_z": -82.62,
+   "home_position_unity_xyz": [
+    -0.16162,
+    0.13439,
+    0.43406
+   ],
+   "home_yaw_deg_unity_y": -82.62,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -0.00014,
+    0.00487,
+    0.00109
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0714,
+     0.0087,
+     0.0288
+    ],
+    "name": "COL_Piece_07",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_07",
+    "local_position_unity_xyz": [
+     -0.0019,
+     0.0,
+     -1e-05
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 9.0,
+    "clearance_along_x_mm": [
+     10.3,
+     12.1
+    ],
+    "clearance_along_y_mm": [
+     16.6,
+     16.6
+    ],
+    "piece_height_cm": 0.87,
+    "cavity_depth_min_cm": 5.0,
+    "top_below_skin_cm": 4.1
+   }
+  },
+  {
+   "name": "Piece_08_Starfish",
+   "label": "Starfish",
+   "cavity": "Cavity_08_ThighRight",
+   "cavity_shape": "star",
+   "size_cm": {
+    "length": 6.71,
+    "width": 6.36,
+    "height": 2.53
+   },
+   "triangles": 1420,
+   "materials": [
+    "M_Piece_08_Starfish_Coral",
+    "M_Piece_08_Starfish_Dots"
+   ],
+   "home_position_blender_xyz": [
+    -0.16172,
+    -0.4317,
+    0.14434
+   ],
+   "home_yaw_deg_blender_z": 0.0,
+   "home_position_unity_xyz": [
+    0.16172,
+    0.14434,
+    0.4317
+   ],
+   "home_yaw_deg_unity_y": 0.0,
+   "home_offset_from_cavity_slot_unity_xyz": [
+    -2e-05,
+    0.01314,
+    -0.00325
+   ],
+   "collision_proxy": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.0671,
+     0.0253,
+     0.0636
+    ],
+    "name": "COL_Piece_08",
+    "center_local_unity": [
+     -0.0,
+     0.0,
+     -0.0
+    ]
+   },
+   "handle": {
+    "name": "Handle_Piece_08",
+    "local_position_unity_xyz": [
+     2e-05,
+     -0.00119,
+     -0.02625
+    ]
+   },
+   "fit": {
+    "inside_opening": true,
+    "min_clearance_mm": 10.5,
+    "clearance_along_x_mm": [
+     10.7,
+     10.6
+    ],
+    "clearance_along_y_mm": [
+     10.6,
+     10.6
+    ],
+    "piece_height_cm": 2.53,
+    "cavity_depth_min_cm": 4.5,
+    "top_below_skin_cm": 1.9
+   }
+  }
+ ],
+ "pince": {
+  "root": "Pince_Corps",
+  "parts": [
+   "Pince_Corps",
+   "Pince_BrancheGauche",
+   "Pince_BrancheDroite"
+  ],
+  "triangles": 1586,
+  "total_length_cm": 19.15,
+  "tip_radius_mm": 1.5,
+  "tip_diameter_mm": 3.0,
+  "materials": [
+   "M_Pince",
+   "M_PinceManche"
+  ],
+  "GripPoint_local_unity_xyz": [
+   0,
+   0,
+   0
+  ],
+  "Attach_local_unity_xyz": [
+   0,
+   0,
+   0
+  ],
+  "TipPoint_local_unity_xyz": [
+   0.0,
+   0.0,
+   0.145
+  ],
+  "hinge_pivot_local_unity_xyz": [
+   0.0,
+   0.0,
+   0.03
+  ],
+  "branch_length_cm": 11.5,
+  "open_gap_between_tips_mm": 12.0,
+  "close_rotation_deg_about_unity_y": {
+   "Pince_BrancheGauche": -2.99,
+   "Pince_BrancheDroite": 2.99,
+   "note": "delivered open at rotation 0; these local Y rotations bring the tips together. Sign follows Blender Z; flip both if they open instead of close."
+  },
+  "collision": {
+   "COL_Pince_Pointe": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.02,
+     0.0052,
+     0.03
+    ],
+    "center_local_unity_xyz": [
+     0.0,
+     0.0,
+     0.1315
+    ],
+    "note": "covers both open tips over the last 3 cm"
+   },
+   "COL_Pince_Manche": {
+    "type": "box",
+    "size_unity_xyz": [
+     0.023,
+     0.015,
+     0.085
+    ],
+    "center_local_unity_xyz": [
+     0.0,
+     0.0,
+     -0.0025
+    ]
+   }
+  },
+  "ensemble_position_blender_xyz": [
+   -0.8,
+   0.15,
+   0.0075
+  ],
+  "ensemble_position_unity_xyz": [
+   0.8,
+   0.0075,
+   -0.15
+  ]
+ }
+}

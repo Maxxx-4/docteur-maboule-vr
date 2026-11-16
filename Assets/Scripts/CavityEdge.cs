@@ -12,7 +12,7 @@ public class CavityEdge : MonoBehaviour
     [SerializeField] Color alertColor = Color.red;
     [SerializeField] float cooldownSeconds = 0.8f;
 
-    float lastHitTime = -999f;
+    static float lastHitTime = -999f;   // partagé : un seul "bip" même si la pince touche plusieurs segments du bord
     Color noseBaseColor;
 
     void Awake()
