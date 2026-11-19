@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 1353690642968817949}
   - component: {fileID: 8135646045920570290}
   - component: {fileID: 3551688735864359163}
+  - component: {fileID: 7114468246719401442}
   m_Layer: 0
   m_Name: Pince
   m_TagString: Untagged
@@ -312,6 +313,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OperationTool
   hand: 5
+--- !u!114 &7114468246719401442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1109988669360168070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18fc396d628f10641ae07b906dfe6d4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PinceGrabber
+  tipPoint: {fileID: 4990789343629210962}
+  branchLeft: {fileID: 1258719877165927681}
+  branchRight: {fileID: 5698685727304853560}
+  closeAngle: 3
+  closeSpeed: 12
+  searchRadius: 0.06
+  grabDistance: 0.03
 --- !u!1 &2391345339248564678
 GameObject:
   m_ObjectHideFlags: 0

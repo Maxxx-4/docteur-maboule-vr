@@ -1,7 +1,7 @@
 using UnityEngine;
 
 /// <summary>
-/// Bord métallique d'une cavité. Si la pince le touche : buzzer, nez rouge, vibration, erreur.
+/// Bord métallique d'une cavité. Si la pince le touche : lumière rouge + buzzer (AlertFeedback), vibration, erreur.
 /// Le Collider doit avoir "Is Trigger" coché.
 /// </summary>
 [RequireComponent(typeof(Collider))]
@@ -30,6 +30,7 @@ public class CavityEdge : MonoBehaviour
 
         if (buzzer != null) buzzer.Play();
         tool.Vibrate();
+        if (AlertFeedback.Instance != null) AlertFeedback.Instance.Trigger();   // lumière rouge + buzzer
         if (noseRenderer != null)
         {
             noseRenderer.material.color = alertColor;
