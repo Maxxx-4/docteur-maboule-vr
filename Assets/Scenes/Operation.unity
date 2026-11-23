@@ -4219,6 +4219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Interaction Simulator
       objectReference: {fileID: 0}
+    - target: {fileID: 8135023674665499069, guid: 58d0a4ac86f2348deb02f3880c71378e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8518324294302271954, guid: 58d0a4ac86f2348deb02f3880c71378e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.15509
@@ -4667,7 +4671,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 16fba6d30ed741d4a9fdd6e79ee2f3ac, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -4771,7 +4775,7 @@ MonoBehaviour:
   alertLightIntensity: 12
   flashDuration: 1.2
   audioSource: {fileID: 1232872683}
-  volume: 0.8
+  volume: 1
 --- !u!4 &1232872685
 Transform:
   m_ObjectHideFlags: 0
@@ -5118,21 +5122,6 @@ MonoBehaviour:
   timeBonusPerSecond: 5
   errorPenalty: 50
   restartDelay: 1.5
-  onScoreChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  onErrorsChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  onTimeChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  onWin:
-    m_PersistentCalls:
-      m_Calls: []
-  onLose:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!4 &1348269494
 Transform:
   m_ObjectHideFlags: 0
@@ -7237,6 +7226,14 @@ PrefabInstance:
     - target: {fileID: 5531500677204247182, guid: 14b3ef3f7a05cce43b01125b0d193142, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869393313433641742, guid: 14b3ef3f7a05cce43b01125b0d193142, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0025
+      objectReference: {fileID: 0}
+    - target: {fileID: 8869393313433641742, guid: 14b3ef3f7a05cce43b01125b0d193142, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0282
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
